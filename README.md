@@ -1,14 +1,6 @@
 arduinoFFT
 ==========
 
-# Fast Fourier Transform for Arduino
-
-This is a fork from https://code.google.com/p/makefurt/ which has been abandoned since 2011.
-
-This is version 2.0 of the library, which has a different [API](#api).
-
-Tested on Arduino 1.8.19 and 2.3.2.
-
 ## Installation on Arduino
 
 Use the Arduino Library Manager to install and keep it updated. Just look for arduinoFFT. Only for Arduino 1.5+
@@ -35,4 +27,4 @@ select arduinoFTT.  This will add a corresponding line to the top of your sketch
 
 ## API
 
-Documentation was moved to the project's [wiki](https://github.com/kosme/arduinoFFT/wiki).
+Documentation was moved to the project's [wiki](https://github.com/Brij881/ArduinoFFT/wiki).

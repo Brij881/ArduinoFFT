@@ -24,7 +24,3 @@ To use this library in a sketch, go to the Sketch | Import Library menu and
 select arduinoFTT.  This will add a corresponding line to the top of your sketch:
 
 `#include <arduinoFTT.h>`
-
-## API
-
-Documentation was moved to the project's [wiki](https://github.com/Brij881/ArduinoFFT/wiki).
